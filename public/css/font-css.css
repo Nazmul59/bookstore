@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Robot";
+  src: url('../../public/font/fonts/robot/Roboto-thin.ttf');
+  letter-spacing: .5px;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url('../../public/font/fonts/IBM_Plex_Sans/IBMPlexSans-Regular.ttf');
+  letter-spacing: .5px;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans bold";
+  src: url('../../public/font/fonts/IBM_Plex_Sans/IBMPlexSans-Bold.ttf');
+  letter-spacing: .5px;
+}

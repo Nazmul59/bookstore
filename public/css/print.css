@@ -1,0 +1,96 @@
+.card_name{
+    font-size: 20px;
+    color: #70657b !important;
+
+}
+
+.counter-num {
+    font-size: 32px;
+    font-weight: 500;
+    font-family: poppins;
+}
+
+.card-body{
+    position: relative;
+    padding: .5rem;
+}
+
+.card-icon {
+    position: absolute;
+    width: 65px;
+    top: 50%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    color: #74697f9e;
+    opacity: 0.2;
+}
+
+/*Registration card start*/
+.registration-card{
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.registration-card .hosital_logo{
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+    border:5px solid #d3d3d3;
+    vertical-align: middle;
+}
+
+
+.registration-card .hospital_info{
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+
+.registration-card .hospital_info h5{
+    font-weight: 600;
+    line-height: 1.4
+    margin:0;
+}
+
+
+.registration-card .hospital_info span{
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.4
+}
+
+
+.registration-card  .patient_info{
+    padding: 10px;
+    background-color: #f9fcff;
+    margin-top: 10px;
+}
+
+.registration-card .patient_img{
+    width: 100px;
+    overflow: hidden;
+    border:1px solid #d3d3d3;
+    vertical-align: middle;
+}
+
+
+.registration-card .foot_bar_code{
+    width: 120px;
+    overflow: hidden;
+    margin-left: auto
+}
+
+.buttons{
+    padding: 5px 0;
+    border-top: 1px solid #c8d0dd;
+    border-bottom: 1px solid #c8d0dd;
+}
+/*Registration card end*/
+
+
+.hosital_logo_info{
+    display: flex;
+    border: 1px solid #222;
+}

@@ -1,0 +1,355 @@
+=======================================================================================
+
+.bg-green-apple{
+    background-color: #6ab04c;
+}
+
+.bg-stripe {
+    background-image: -webkit-linear-gradient(135deg,rgba(255,255,255,0.125) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.125) 50%,rgba(255,255,255,0.125) 75%,transparent 75%,transparent);
+}
+
+.bg-light{ background-color: #FBFBFB!important; }
+
+.bg-light-gray{
+    background-color: #c7d1dc!important;
+    color: #222
+}
+
+.bg-none{ background-color: inherit; !important; background-image: none !important; }
+
+.bg-light-blue{
+    background-color:#d3edfb !important;
+    color: #003b61 !important;
+}
+
+.bg-navy{
+    background:#004B7B !important;
+    color: #fff !important;
+    border-radius: 0 !important;
+}
+
+.bg-warning-light { background: rgba(247,246,148,.2) !important; }
+
+.bg-brown{
+    background-color: #964B00;
+    color: #fff;
+}
+
+
+.bg-brown:hover{
+    background-color: #6e3a07;
+    color: #fff;
+}
+
+.border-bottom-dark{ border-bottom:2px solid #003B61; }
+
+.bg-blue{
+    background-color: #198ae3;
+    color: #fff;
+}
+
+.bg-blue:hover,
+.bg-blue:focus{
+    background-color: #126aaf;
+    color: #fff;
+}
+
+.bg-pumkin{
+    background-color: #d35400;
+    color: #fff;
+}
+
+.bg-pumkin:hover,
+.bg-pumkin:focus{
+    background-color: #a54f16;
+    color: #fff;
+}
+
+.bg-niphritis{
+    background-color: #27ae60;
+    color: #fff;
+}
+
+.bg-niphritis:hover,
+.bg-niphritis:focus{
+    background-color: #0e8440;
+    color: #fff;
+}
+
+.bg-mazblue{
+    background-color:#273c75;
+    color: #fff;
+}
+
+.bg-mazblue:hover,
+.bg-mazblue:focus{
+    background-color:#3453a5;
+    color: #f1f1f1;
+}
+
+
+.bg-nextgen{
+    background-color: #084d2e;
+    color: #fff;
+}
+
+.bg-nextgen:hover,
+.bg-nextgen:focus{
+    background-color:#09643b;
+    color: #f1f1f1;
+}
+
+.thead_theme{
+    background-color: aqua;
+    color: #fff;
+}
+
+.bg-nextgen-light{
+    background-color: #5db403!important;
+    color: #fff;
+}
+
+.bg-light-blue{ background-image: linear-gradient(#d3edfb, rgba(255,255,255,.5)); }
+
+.bg-nextgen-light:hover,
+.bg-nextgen-light:focus{
+    background-color:#5db403;
+    color: #f1f1f1;
+}
+
+
+.bg-table-light{
+    background-color:#4caf50!important;
+    color: #fff;
+}
+
+.bg-table-light:hover,
+.bg-table-light:focus{
+    background-color:#4caf50;
+    color: #f1f1f1;
+}
+
+.bg-light-gray{
+    background-color: #e5edf3!important;
+}
+
+.bg-soft-green{
+    background-color:#38c172!important;
+    color: #fff;
+}
+
+.bg-soft-green:hover,
+.bg-soft-green:focus{
+    background-color:#38c172;
+    color: #f1f1f1;
+}
+
+
+.bg-primary{
+    /*background-color: #0077c1 !important;*/
+    color: #fff!important;
+    /*background-image: linear-gradient(#0077c1, #1A9AD6) !important;*/
+    background-image: linear-gradient(to top right,#007bff,#4baae0) !important;
+}
+
+.bg-primary:hover,
+.bg-primary:focus{
+    background-color: #003b61!important;
+    color: #fff!important;
+}
+
+
+
+
+
+=======================================================================================
+
+/*Text colors*/
+
+.text_red{
+    color: #ec1c1c!important;
+}
+.text-dark{ color: #003B61 !important; }
+
+
+
+
+
+=========================================================================================
+
+
+.social.facebook {
+    background: #3b5998;
+}
+.social.facebook:hover {
+    background: #344e86;
+}
+.social.twitter {
+    background: #00aced;
+}
+.social.twitter:hover {
+    background: #0099d4;
+}
+.social.linkedin {
+    background: #4875b4;
+}
+.social.linkedin:hover {
+    background: #4169a2;
+}
+.social.flickr {
+    background: #ff0084;
+}
+.social.flickr:hover {
+    background: #e60077;
+}
+.social.tumblr {
+    background: #32506d;
+}
+.social.tumblr:hover {
+    background: #2a435c;
+}
+.social.xing {
+    background: #026466;
+}
+.social.xing:hover {
+    background: #024b4d;
+}
+.social.github {
+    background: #4183c4;
+}
+.social.github:hover {
+    background: #3876b4;
+}
+.social.html5 {
+    background: #e34f26;
+}
+.social.html5:hover {
+    background: #d4431b;
+}
+.social.openid {
+    background: #f78c40;
+}
+.social.openid:hover {
+    background: #f67d28;
+}
+.social.stack-overflow {
+    background: #fe7a15;
+}
+.social.stack-overflow:hover {
+    background: #f86c01;
+}
+.social.css3 {
+    background: #0170ba;
+}
+.social.css3:hover {
+    background: #0161a1;
+}
+.social.youtube {
+    background: #b00;
+}
+.social.youtube:hover {
+    background: #a20000;
+}
+.social.dribbble {
+    background: #ea4c89;
+}
+.social.dribbble:hover {
+    background: #e7357a;
+}
+.social.dropbox {
+    background: #007ee5;
+}
+.social.dropbox:hover {
+    background: #0070cc;
+}
+.social.google-plus {
+    background: #d34836;
+}
+.social.google-plus:hover {
+    background: #c43d2b;
+}
+.social.instagram {
+    background: #517fa4;
+}
+.social.instagram:hover {
+    background: #497293;
+}
+.social.pinterest {
+    background: #cb2027;
+}
+.social.pinterest:hover {
+    background: #b51d23;
+}
+.social.vk {
+    background: #45668e;
+}
+.social.vk:hover {
+    background: #3d5a7d;
+}
+.social.yahoo {
+    background: #400191;
+}
+.social.yahoo:hover {
+    background: #350178;
+}
+.social.behance {
+    background: #1769ff;
+}
+.social.behance:hover {
+    background: #0059fd;
+}
+.social.reddit {
+    background: #ff4500;
+}
+.social.reddit:hover {
+    background: #e63e00;
+}
+.social.spotify {
+    background: #7ab800;
+}
+.social.spotify:hover {
+    background: #699f00;
+}
+.social.vine {
+    background: #00bf8f;
+}
+.social.vine:hover {
+    background: #00a67c;
+}
+.social.foursquare {
+    background: #1073af;
+}
+.social.foursquare:hover {
+    background: #0e6498;
+}
+.social.vimeo {
+    background: #aad450;
+}
+.social.vimeo:hover {
+    background: #a0cf3c;
+}
+
+.bg-flat-color-1 {
+    background: #20a8d8;
+}
+
+.bg-flat-color-2 {
+    background: #63c2de;
+}
+
+.bg-flat-color-3 {
+    background: #ffc107;
+}
+
+.bg-flat-color-4 {
+    background: #f86c6b;
+}
+
+.bg-flat-color-5 {
+    background: #4dbd74;
+}
+
+.transition {
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
